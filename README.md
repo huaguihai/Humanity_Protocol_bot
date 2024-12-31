@@ -23,12 +23,14 @@
 
 本项目采用 MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件
 
+## 开始使用
+
 ### 1. 克隆仓库
 
 首先，使用Git将本仓库克隆到本地机器：
 
 ```bash
-git clone https://github.com/vinskasenda/HumanityTestnet-Bot.git
+git clone https://github.com/huaguihai/Humanity_Protocol_bot.git
 ```
 
 ### 2. 进入克隆的文件夹
@@ -36,7 +38,7 @@ git clone https://github.com/vinskasenda/HumanityTestnet-Bot.git
 导航到仓库克隆的文件夹：
 
 ```bash
-cd HumanityTestnet-Bot
+cd Humanity_Protocol_bot
 ```
 
 ### 3. 创建private_keys.txt文件
